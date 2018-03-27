@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="col">
+    <h2>Game Name: <%= @game %></h2>
+    <h2>Player Name: <span id="user-name"></span></h2>
+    <script>
+      window.gameName = "<%= @game %>";
+    </script>
+    <div id="root" style="display: inline-block; background-color: #33363a">
+      <p>React app not loaded...</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <p>Enter your message: <input type="text" id="msg-input">
+    <button id="msg-button">Send</button></p>
+  </div>
+</div>

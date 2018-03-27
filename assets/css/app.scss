@@ -1,0 +1,35 @@
+@import "bootstrap";
+
+ body {
+   font-size: 20pt;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   color: white;
+   background-image: url("/images/original2.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 1500px 800px;
+
+ }
+
+#mainpage {
+  font-size: 20pt;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: white;
+  background-image: url("/images/original.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1400px 700px;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}

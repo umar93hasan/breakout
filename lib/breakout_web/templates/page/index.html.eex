@@ -1,0 +1,18 @@
+<body id="mainpage">
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+<br/>
+<br/>
+
+<div class="row">
+    <div class="col">
+
+        <h2 id="index-page">Join/Resume Game</h2>
+        <p>Game: <input type="text" id="game-input" ></p>
+        <p>Name: <input type="text" id="name-input" ></p>
+        <p><button id="game-button">Let's Breakout</button></p>
+    </div>
+</div>
+</body>
